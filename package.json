@@ -1,0 +1,22 @@
+{
+  "name": "sitio_hbs_pintores",
+  "version": "1.0.0",
+  "description": "Sitio web con HBS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emi154loya/Sitio_HBS_Pintores.git"
+  },
+  "author": "Emiliano Loya Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emi154loya/Sitio_HBS_Pintores/issues"
+  },
+  "homepage": "https://github.com/Emi154loya/Sitio_HBS_Pintores#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
