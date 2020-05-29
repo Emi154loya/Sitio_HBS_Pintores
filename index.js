@@ -22,7 +22,7 @@ app.get('/', (req, res)=>{
         nombre : 'Emiliano Loya Flores 4°E',
         year : new Date().getFullYear(),
         title : 'Inicio',
-        header : 'PINTORES'
+        head : 'PINTORES'
     });
 });
         //Vincent
@@ -31,7 +31,7 @@ app.get('/vincent', (req, res)=>{
         nombre : 'Emiliano Loya Flores 4°E',
         year : new Date().getFullYear(),
         title : 'Vincent van Gogh',
-        header : 'VINCENT VAN GOGH'
+        head : 'VINCENT VAN GOGH'
     });
 });
         //Dali
@@ -40,7 +40,7 @@ app.get('/davinci', (req, res)=>{
         nombre : 'Emiliano Loya Flores 4°E',
         year : new Date().getFullYear(),
         title : 'Leonardo da Vinci',
-        header : 'LEONARDO DA VINCI'
+        head : 'LEONARDO DA VINCI'
     });
 });
 
@@ -49,7 +49,7 @@ app.get('/claude', (req, res)=>{
         nombre : 'Emiliano Loya Flores 4°E',
         year : new Date().getFullYear(),
         title : 'Claude Monet',
-        header : 'CLAUDE MONET'
+        head : 'CLAUDE MONET'
     });
 });
 
@@ -58,7 +58,7 @@ app.get('/john', (req, res)=>{
         nombre : 'Emiliano Loya Flores 4°E',
         year : new Date().getFullYear(),
         title : 'John William Waterhouse',
-        header : 'JOHN WILLIAM WATERHOUSE'
+        head : 'JOHN WILLIAM WATERHOUSE'
     });
 });
 
