@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Emi154loya/Sitio_HBS_Pintores#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.3",
+    "hbs": "^4.1.1"
   }
 }
